@@ -1,0 +1,16 @@
+---
+title: "George Richardson"
+about:
+  template: jolla
+  image: "images/profile_pic.jpg"
+---
+
+This is a website for me, George. It contains information about myself and my work, a blog and other bits and pieces that might interest you, depending on what you're into.
+
+For the last few years, I've worked as a data scientist or a leader of data science and engineering teams, creating research and applications with social impact aims. I've also run various other projects, such as a DIY bike workshop and a community garden.
+
+I'm interested in the intersections of science and technology, ecological and social issues, strategy and left/socialist politics. Though I would class myself as an expert in none of those things.
+
+You can also find me on [X/Twitter](https://x.com/g_r_richardson), [GitHub](https://github.com/georgerichardson) and [LinkedIn](https://www.linkedin.com/in/george-richardson-45846931a/).
+
+This website is made with [Quarto](https://quarto.org/).

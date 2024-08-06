@@ -1,0 +1,14 @@
+---
+date: "2024-08-05"
+layout: post
+title: Hello to a new blog
+categories: [personal]
+---
+
+This is a new place for me to blog. I plan to write about science and technology, left-wing politics and reflections about life.
+
+Creating this blog is a bit of a challenge to myself. I spend a lot of time thinking and not enough time bringing coherence to those thoughts or sharing them through writing. I want to change that for myself and for others who might find what I have to say useful.
+
+I occasionally post on [Twitter](https://x.com/georgerichardson) (currently known as X) but find I'm not great at condensing what I want to say enough to fit the format well. I'll still post on there occasionally and tag people who I mention here, but I'd rather stick mostly to long-form for now.
+
+I hope you will find something you enjoy or can make use of here.

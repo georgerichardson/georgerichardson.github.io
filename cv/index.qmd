@@ -1,0 +1,9 @@
+---
+title: "CV"
+description: "A short summary of my work and experience"
+listing:
+  - id: cv
+    contents: cv_list.yml
+    sort: "start-date desc"
+page-layout: full
+---

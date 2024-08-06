@@ -1,0 +1,31 @@
+project:
+  type: website
+
+  preview: 
+    port: 5555
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+freeze: true
+
+website:
+  title: "George Richardson"
+  description: "A website and blog for George Richardson"
+  navbar:
+    left:
+      # - href: "about.qmd"
+      #   text: "About"
+      - text: "Blog"
+        file: "blog/index.qmd"
+      # - text: "CV"
+      #   file: "cv/index.qmd"
+      # - text: "Ideas"
+      #   file: "ideas/index.qmd"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

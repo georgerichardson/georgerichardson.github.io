@@ -1,0 +1,35 @@
+- title: "Head of Data Science and Technology"
+  description: "I'm heading up a new data and tech team at the Innovation Growth Lab. We will be creating data driven analysis and technology prototypes to support policy and decision makers working on science, innovation and entrepreneurship."
+  university: "Innovation Growth Lab"
+  start_date: "2022-12"
+  end_date: "present"
+
+- title: Director of Data Analytics
+  description: "I led Nesta's data analytics team, comprising data scientists, data engineers and developers. "
+  university: Nesta
+  start_date: "2022-12"
+  end_date: "2023-12"
+
+- title: Head of Data Science
+  description: "I led Nesta's data science team, which sat within the Data Analytics Practice. "
+  university: Nesta
+  start_date: "2021-01"
+  end_date: "2022-12"
+
+- title: Principal Data Scientist, Innovation Mapping
+  description: "I did this job"
+  university: Nesta
+  start_date: "2018-04"
+  end_date: "2020-12"
+
+- title: Data Scientist
+  description: "I worked for a while"
+  university: OneEnergy Renewables
+  start_date: "2018-04"
+  end_date: "2020-12"
+
+# - title: Data Scientist
+#   description: "I did this job"
+#   university: OneEnergy Renewables
+#   start_date: "2018-04"
+  # end_date: "2020-12"
