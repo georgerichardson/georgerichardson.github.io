@@ -12,4 +12,4 @@ For the last few years, I've worked as a data scientist or a leader of data scie
 I'm interested in the intersections of science and technology, ecological and social issues, strategy and left/socialist politics. Although, I would class myself as an expert in none of those things.
 
 
-You can also find me on [X/Twitter](https://x.com/g_r_richardson), [GitHub](https://github.com/georgerichardson) and [LinkedIn](https://www.linkedin.com/in/george-richardson-45846931a/). This website is made with [Quarto](https://quarto.org/).
+You can also find me on [Bluesky](https://bsky.app/profile/georgerichardson.bsky.social), [GitHub](https://github.com/georgerichardson), [LinkedIn](https://www.linkedin.com/in/george-richardson-45846931a/) and almost never on almost never on [X](https://x.com/g_r_richardson). This website is made with [Quarto](https://quarto.org/).
