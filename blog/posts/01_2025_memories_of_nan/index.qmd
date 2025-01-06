@@ -1,5 +1,5 @@
 ---
-date: "2025-01-07"
+date: "2025-01-06"
 layout: post
 title: Memories of Carol Richardson, 1946 - 2023
 categories: [personal]
@@ -85,4 +85,4 @@ No one’s memory needs to be romanticised. What I have written here is mostly a
 
 There is more I could write, but this is long enough for now. Nan was a person with many facets, but I wanted to write about who she was to me. And if that wasn’t already apparent, to me she was the best Nan a nan could be.
 
-![Nan and Grandad on their wedding day. Nan arrived by on the bus, with her sister announcing the big day to everyone on board.](nan_grandad_wedding.jpg){fig-alt="Black and white photo of Nan and Grandad walking down the steps outside." width=50%}
+![Nan and Grandad on their wedding day. Nan arrived on the bus, with her sister announcing the big day to everyone who was on board.](nan_grandad_wedding.jpg){fig-alt="Black and white photo of Nan and Grandad walking down the steps outside." width=50%}
