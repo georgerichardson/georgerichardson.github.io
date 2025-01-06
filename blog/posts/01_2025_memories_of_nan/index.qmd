@@ -4,7 +4,6 @@ layout: post
 title: Memories of Carol Frances Richardson, 1946 - 2023
 categories: [personal]
 image: nan_childhood.jpg
-image-width: 418px
 ---
 
 ![Childhood picture of my nan, Carol Frances Richardson (12th September 1946 - 14th October 2023).](nan_childhood.jpg){fig-alt="Photo of me as a child, my Nan and my Grandad sitting at a table." width=50%}
